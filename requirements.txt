@@ -4,3 +4,5 @@ streamlit
 pdfplumber
 docx2txt
 re
+sentence_transformers
+seaborn
