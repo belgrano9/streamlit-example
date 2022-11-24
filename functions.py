@@ -9,7 +9,6 @@
 #*********************************************************************
 
 
-import torch
 import pdfplumber
 import docx2txt
 import os
