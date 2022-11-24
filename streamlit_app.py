@@ -16,11 +16,11 @@ import numpy as np
 st.title('Project visualization')
 
 file=st.file_uploader("Upload your file")
-stringio=StringIO(file.getvalue().decode("utf-8")
-st.write(stringio)
+#stringio=StringIO(file.getvalue().decode("utf-8")
+#st.write(stringio)
                               
-string_data=stringio.read()
-st.write(string_data)
+#string_data=stringio.read()
+#st.write(string_data)
 
 
 
